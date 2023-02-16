@@ -270,7 +270,7 @@ const achievementSection = {
     {
       title: "ESEN",
       subtitle: "Completed deploma from ESEN for Web App Developer",
-      image: require("./assets/images/dep.jpeg"),
+      image: require("./assets/images/contact-image.jpeg"),
       imageAlt: "dep",
       footerLink: [
         {name: "Certification", url: ""},
@@ -307,7 +307,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+33",
+  number: "+33.........",
   email_address: "benmahmoudasm57@gmail.com"
 };
 
