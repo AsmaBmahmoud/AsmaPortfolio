@@ -107,7 +107,7 @@ const educationInfo = {
       logo: require("./assets/images/esen.jpeg"),
       subHeader: "professional license of Science in Computer Science and information technology system",
       duration: "September 2015 - mai 2018",
-      desc: "Ranked top 100% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc: "special in the programing language. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: [
         "Ecole Supérieure d'Economie Numérique ESEN Manouba, Higher School of Digital Economy, University of Manouba Tunis Tunisia, invest in intelligence.",
 
@@ -118,7 +118,7 @@ const educationInfo = {
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor degree of Science in Economics and Management",
       duration: "September 2014",
-      desc: "Ranked top in the program..",
+      desc: "",
     }
   ]
 };
