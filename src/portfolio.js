@@ -245,7 +245,7 @@ const bigProjects = {
     {
       image: require("./assets/images/P&V.png"),
       projectName: "Piere et vacances",
-      projectDesc: "Pierre et Vacances est un site dédié pour le tourisme",
+      projectDesc: "Pierre et Vacances is a site dedicated to tourism",
       footerLink: [
         {
           name: "Visit Website",
