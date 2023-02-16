@@ -153,7 +153,7 @@ const workExperiences = {
       role: "Front-End Developer",
       company: "Oyez Altavia",
       companylogo: require("./assets/images/oyez.jpeg"),
-      date: "september 2018 – Present",
+      date: "september 2018 – aout 2019",
       desc: "Oyez is an expert agency in connected commerce. We implement the technological and creative solutions that brands and distributors need to accelerate the digital transformation of their business models on mobile, web and in stores.",
       descBullets: [
         
@@ -177,7 +177,7 @@ const workExperiences = {
       role: "Front-End Developer",
       company: "Oxilog",
       companylogo: require("./assets/images/OXILOG.png"),
-      date: "juillet 2021 – Présent",
+      date: "juillet 2021 -  till now",
       desc: "Oxilog Consulting is a service company in consulting and engineering of computer systems"
     },
   ]
